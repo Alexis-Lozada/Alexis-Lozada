@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/73295269?v=4" width="200" style="border-radius: 50%;" />
+  <img src="[https://avatars.githubusercontent.com/u/73295269?v=4](https://i.imgur.com/Qv4Vlx6.png)" width="200" style="border-radius: 100px;" />
   
   # ¡Hey 👋! Soy Alexis Lozada
 
