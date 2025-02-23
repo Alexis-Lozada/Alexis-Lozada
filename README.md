@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/Qv4Vlx6.png" width="200" style="border-radius: 100px;" />
+  <img src="https://imgur.com/a/m8hd3KW" width="200" style="border-radius: 100px;" />
   
   # ¡Hey 👋! Soy Alexis Lozada
 
