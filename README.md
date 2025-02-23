@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://i.imgur.com/S3qcUnk.png" width="200" style="border-radius: 100px;" />
   
-  # ¡Hey 👋! Soy Alexis Lozada
+  # ¡Jola 👋! Soy Alex
 
   💻 Desarrollador de software interesado en desarrollo web e inteligencia artificial
   
