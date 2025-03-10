@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://i.imgur.com/S3qcUnk.png" width="200" />
   
   # ¡Hola 👋! Soy Alex
 
